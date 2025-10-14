@@ -15,7 +15,7 @@ const initialPosts = [
     id: 1,
     title: 'Me voy a canadá!!',
     description: 'Muy emocionado de tener esta oportunidad. Gracias Dios',
-    image: 'https://www.uautonoma.cl/content/uploads/2025/06/FOTO-estudiante-obtiene-beca-en-canada-2.jpg',
+    image: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/206.png',
   },
   {
     id: 2,
