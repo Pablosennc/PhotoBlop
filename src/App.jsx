@@ -73,7 +73,7 @@ function AstroPhotoBlogApp() {
   <div style={{ maxWidth: 1200, margin: '0 auto', padding: 20, background: 'linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.02))', borderRadius: 12 }}>
   <Container size="lg" style={{ maxWidth: 1200 }}>
         <Group position="apart" mb="xl">
-          <Title order={2} style={{ color: '#fff', fontWeight: 600, letterSpacing: 1, textShadow: '0 2px 8px #222' }}>
+          <Title order={2} style={{ color: '#dadadaff', fontWeight: 600, letterSpacing: 1, textShadow: '0 2px 8px #222' }}>
             Explora y comparte tus momentos
           </Title>
           <Button
