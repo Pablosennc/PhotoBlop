@@ -63,7 +63,7 @@ function AstroPhotoBlogApp() {
       style={{
         minHeight: '100vh',
         width: '100vw',
-        background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ZjL8wA2MmfiNQ-xkXt3WJMALEUK2Jw_lyA&s) center/cover no-repeat fixed',
+        background: 'url(https://i.pinimg.com/236x/91/1a/0f/911a0fe6868cf62600e03f7acba21a52.jpg) center/cover no-repeat fixed',
         paddingTop: 90,
         paddingBottom: 40,
         boxSizing: 'border-box',
