@@ -19,9 +19,9 @@ function AstroHeader() {
       alignItems: 'center',
     }}>
       <Group spacing="xs">
-        <span style={{ fontSize: 26, marginRight: 6 }}>✨</span>
+        <span style={{ fontSize: 26, marginRight: 6 }}></span>
         <Title order={1} style={{ color: '#fff', letterSpacing: 2, fontFamily: 'cursive', fontWeight: 700 }}>
-          {APP_TITLE} 📷
+          {APP_TITLE} 
         </Title>
       </Group>
     </header>
