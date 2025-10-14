@@ -63,7 +63,7 @@ function AstroPhotoBlogApp() {
       style={{
         minHeight: '100vh',
         width: '100vw',
-        background: 'url(https://img.freepik.com/vector-gratis/notas-rasgadas-vector-fondo-melocoton_53876-109024.jpg) center/cover no-repeat fixed',
+        background: 'url(https://images.unsplash.com/photo-1518655048521-f130df041f66?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Zm9uZG8lMjBkZWwlMjBibG9nfGVufDB8fDB8fHww) center/cover no-repeat fixed',
         paddingTop: 90,
         paddingBottom: 40,
         boxSizing: 'border-box',
